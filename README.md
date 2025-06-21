@@ -27,7 +27,7 @@ A collaborative whiteboard web application inspired by [Excalidraw](https://exca
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/excalidraw-clone.git
-cd excalidraw-clone
-npm install
-npm run dev
+git clone https://github.com/Sarthakkad05/draw-app.git
+cd draw-app
+pnpm install
+pnpm run dev
